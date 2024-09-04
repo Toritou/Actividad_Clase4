@@ -1,7 +1,7 @@
 import requests
 
 # URL de la API
-LT_URL_API = 'http://52.204.72.228:8080'
+LT_URL_API = 'http://tuip:8080'
 
 # Variable global para almacenar el RUT del usuario actual
 LT_rut_actual = None
